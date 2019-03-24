@@ -1,6 +1,10 @@
 # Welcome to Level 2!
-1.	Move to a different computer
-2.	Open Visual Studio, Connect to tfs.
+
+In this level, you will open the project you created in Level 1 and update it.
+
+
+1.	Move to a different computer (you probably have done this!)
+2.	Open Visual Studio, Connect to tfs. [Here is a link to that quick reference](https://github.com/OTC-CISRiley/CIS150InfoLevel1/blob/master/docs/ConnecttoTFS.pdf)
 3.	Use Team Explorer Source Control Explorer to find your previously checked in project
 4.	Use tfs to get latest version
 5.	Check out the solution for update (is this step necessary?)
