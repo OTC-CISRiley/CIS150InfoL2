@@ -38,7 +38,7 @@ In this level, you will use TFS to open the project you created in Level 1.
 
 7.	After testing is complete, check in the updated solution to tfs. Remain in Visual Studio with your project open.
 
-8.	Run the complete site selection project and choose site 5. You will be directed to the Level 3 site.
+8.	Run the complete site selection project and choose site 5. You will be directed to the next Level's site.
 
 
 [Return to the Level 1 site](https://otc-cisriley.github.io/CIS150InfoLevel1/)
