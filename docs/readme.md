@@ -1,21 +1,21 @@
-# Welcome to Level 2!
+# Welcome to Clue 2!
 
-In this level, you will use TFS to open the project you created in Level 1.
+To solve this clue, you will use TFS to open the project you created in Clue 1.
 
 
-1.	Move to a different computer (you probably have done this!)
+1.	Move to a different computer (you probably have done this!) Restart your computer if it is the only one you use.
 
 2.	Open Visual Studio, Connect to tfs. [Here is a link to that quick reference](https://github.com/OTC-CISRiley/CIS150InfoLevel1/blob/master/docs/ConnecttoTFS.pdf)
 
-3.	Use Team Explorer, Source Control Explorer to find the project you checked in in level 1
+3.	Use Team Explorer, Source Control Explorer to find the project you checked in while solving clue 1
 
-4.	Use the Source Control Explorer to get the latest version of the level 1 project. Open the project folder.
+4.	Use the Source Control Explorer to get the latest version of the clue 1 project. Open the project folder.
 
 5.  Double click on the .sln file to open the project. Use Solution Explorer to verify the project contents.
-    (you may have to re-create your level 1 project if it did not check in properly)
+    (you may have to re-create your clue 1 project if it did not check in properly)
     
 6.	Update the Main method to prompt for a site to display. Code shown below. The first two lines 
-    were added in Level 1, so use them as a reference for adding the new code.
+    were added in clue 1, so use them as a reference for adding the new code.
 
                 sites[i] = sitePre + i + @"0Info/";
             }
@@ -38,7 +38,7 @@ In this level, you will use TFS to open the project you created in Level 1.
 
 7.	After testing is complete, check in the updated solution to tfs. Remain in Visual Studio with your project open.
 
-8.	Run the complete site selection project and choose site 5. You will be directed to the next Level's site.
+8.	Run the complete site selection project and choose site 5. You will be recieve the next Clue.
 
 
 [Return to the Level 1 site](https://otc-cisriley.github.io/CIS150InfoLevel1/)
