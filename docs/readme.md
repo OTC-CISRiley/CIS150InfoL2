@@ -39,7 +39,7 @@ To solve this clue, you will use TFS to open the project you created in Clue 1.
 
 7.	After testing is complete, check in the updated solution to tfs. Remain in Visual Studio with your project open.
 
-8.	Run the complete site selection project and choose site 5. You will be recieve the next Clue.
+8.	Run the complete site selection project and choose 10 for the number of sites and site 5. You will be recieve the next Clue.
 
 
 [Return to the Level 1 site](https://otc-cisriley.github.io/CIS150InfoLevel1/)
