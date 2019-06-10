@@ -21,6 +21,7 @@ To solve this clue, you will use TFS to open the project you created in Clue 1.
             }
 
           --- new code below
+            int siteToDisplay;
             // set up our site to display
             Write("\nWhich site to display? ");
             while (int.TryParse(ReadLine(), out siteToDisplay) == false)
