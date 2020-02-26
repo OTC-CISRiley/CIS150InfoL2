@@ -1,4 +1,6 @@
-# Welcome to Clue 2! The URL of this page is https://otc-cisriley.github.io/CIS150InfoL2/
+# Welcome to Clue 2! 
+
+## The URL of this page is https://otc-cisriley.github.io/CIS150InfoL2/
 
 To solve this clue, you will use TFS to open the project you created in Clue 1.
 
