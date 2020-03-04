@@ -39,9 +39,11 @@ To solve this clue, you will use TFS to open the project you created in Clue 1.
           --- end of new code
         }
 
-7.	After testing is complete, check in the updated solution to tfs. Remain in Visual Studio with your project open.
+7.  If there is a compile error, do some research. Are we missing a using statement?
 
-8.	Run the complete site selection project and choose 10 for the number of sites and site 5. If you follow instructions correctly, you will be rewarded with the next Clue.
+8.	After testing is complete, check in the updated solution to tfs. Remain in Visual Studio with your project open.
+
+9.	Run the complete site selection project and choose 10 for the number of sites and site 5. If you follow instructions correctly, you will be rewarded with the next Clue.
 
 
 [Return to the Level 1 site](https://otc-cisriley.github.io/CIS150InfoLevel1/)
