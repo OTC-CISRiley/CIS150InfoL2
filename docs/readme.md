@@ -41,9 +41,12 @@ To solve this clue, you will use TFS to open the project you created in Clue 1.
 
 7.  If there is a compile error, do some research. Are we missing a using statement?
 
-8.	After testing is complete, check in the updated solution to tfs. Remain in Visual Studio with your project open.
+8.  Does the process start command work (a web browser should open with the final instructions)? It depends on your environment. If it does not work, update the code to        include a web browser. For example:
+        Process.Start("chrome.exe" + sites[siteToDisplay]);
 
-9.	Run the complete site selection project and choose 10 for the number of sites and site 5. If you follow instructions correctly, you will be rewarded with the next Clue.
+9.	After testing is complete, check in the updated solution to tfs. Remain in Visual Studio with your project open.
+
+10.	Run the complete site selection project and choose 10 for the number of sites and site 5. If you follow instructions correctly, you will be rewarded with the next Clue.
 
 
 [Return to the Level 1 site](https://otc-cisriley.github.io/CIS150InfoLevel1/)
