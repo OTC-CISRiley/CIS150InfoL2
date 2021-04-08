@@ -42,7 +42,7 @@ To solve this clue, you will use TFS to open the project you created in Clue 1.
 7.  If there is a compile error, do some research. Are we missing a using statement?
 
 8.  Does the process start command work (a web browser should open with the final instructions)? It depends on your environment. If it does not work, update the code to        include a web browser. For example:
-        Process.Start("chrome.exe" + sites[siteToDisplay]);
+        Process.Start("chrome.exe " + sites[siteToDisplay]);
 
 9.	After testing is complete, check in the updated solution to tfs. Remain in Visual Studio with your project open.
 
