@@ -13,7 +13,8 @@ To solve this clue, you will use TFS to open the project you created in Clue 1.
 
 4.	Use the Source Control Explorer to get the latest version of the clue 1 project. Open the project folder.
 
-5.  Double click on the .sln file to open the project. Use Solution Explorer to verify the project contents.
+5.  Double click on the .sln file to open the project. 
+- Use Solution Explorer to verify the project contents.
     (you may have to re-create your clue 1 project if it did not check in properly)
     
 6.	Update the Main method to prompt for a site to display. Code shown below. The first two lines 
