@@ -19,7 +19,7 @@ To solve this clue, you will use TFS to open the project you created in Clue 1.
     
 6.	Update the Main method to prompt for a site to display. Code shown below. The first two lines 
     were added in clue 1, so use them as a reference for adding the new code.
-
+```C#
                 sites[i] = sitePre + i + @"0Info/";
             }
 
@@ -39,7 +39,7 @@ To solve this clue, you will use TFS to open the project you created in Clue 1.
             Process.Start(sites[siteToDisplay]);
           --- end of new code
         }
-
+```
 7.  If there is a compile error, do some research. Are we missing a using statement?
 
 8.  Does the process start command work (a web browser should open with the final instructions)? It depends on your environment. If it does not work:
